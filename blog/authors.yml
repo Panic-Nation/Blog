@@ -8,14 +8,7 @@ CaptainSlayer:
 
 Bubba:
   name: Bubba
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+  title: I make things
+  image_url: https://github.com/bubbafett5611.png
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    github: bubbafett5611
