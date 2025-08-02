@@ -15,7 +15,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://panic-nation.github.io',
+  url: 'https://panicnation.net',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -58,8 +58,8 @@ const config: Config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/Panic-Nation/Blog/tree/main/',
+          // editUrl:
+          //   'https://github.com/Panic-Nation/Blog/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -89,58 +89,58 @@ const config: Config = {
         //   label: 'Tutorial',
         // },
         {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/Panic-Nation/Blog',
-          label: 'GitHub',
-          position: 'right',
-        },
-      ],
-    },
-    footer: {
-      style: 'dark',
-      links: [
         // {
-        //   title: 'Docs',
-        //   items: [
-        //     {
-        //       label: 'Tutorial',
-        //       to: '/docs/intro',
-        //     },
-        //   ],
+        //   href: 'https://github.com/Panic-Nation/Blog',
+        //   label: 'GitHub',
+        //   position: 'right',
         // },
-        {
-          title: 'Community',
-          items: [
-            // {
-            //   label: 'Stack Overflow',
-            //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            // },
-            // {
-            //   label: 'Discord',
-            //   href: 'https://discordapp.com/invite/docusaurus',
-            // },
-            // {
-            //   label: 'X',
-            //   href: 'https://x.com/docusaurus',
-            // },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            // {
-            //   label: 'Blog',
-            //   to: '/blog',
-            // },
-            // {
-            //   label: 'GitHub',
-            //   href: 'https://github.com/facebook/docusaurus',
-            // },
-          ],
-        },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()}.`,
     },
+    // footer: {
+    //   style: 'dark',
+    //   links: [
+    //     // {
+    //     //   title: 'Docs',
+    //     //   items: [
+    //     //     {
+    //     //       label: 'Tutorial',
+    //     //       to: '/docs/intro',
+    //     //     },
+    //     //   ],
+    //     // },
+    //     {
+    //       title: 'Community',
+    //       items: [
+    //         // {
+    //         //   label: 'Stack Overflow',
+    //         //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+    //         // },
+    //         // {
+    //         //   label: 'Discord',
+    //         //   href: 'https://discordapp.com/invite/docusaurus',
+    //         // },
+    //         // {
+    //         //   label: 'X',
+    //         //   href: 'https://x.com/docusaurus',
+    //         // },
+    //       ],
+    //     },
+    //     {
+    //       title: 'More',
+    //       items: [
+    //         // {
+    //         //   label: 'Blog',
+    //         //   to: '/blog',
+    //         // },
+    //         // {
+    //         //   label: 'GitHub',
+    //         //   href: 'https://github.com/facebook/docusaurus',
+    //         // },
+    //       ],
+    //     },
+    //   ],
+    //   copyright: `Copyright © ${new Date().getFullYear()}.`,
+    // },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
