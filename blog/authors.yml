@@ -1,17 +1,13 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
+CaptainSlayer:
+  name: CaptainSlayer
+  title: Big Booty Enthusiast
+  image_url: https://cdn.bsky.app/img/avatar/plain/did:plc:6tta3j5l5ncrfpdaxma6dstz/bafkreickbdkc6jqfra5frfeedktz4velffls4wkcvr66ublchzlxap6rjy@jpeg
   page: true
   socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
+    bluesky: captainslayer.bsky.social
 
-slorber:
-  name: Sébastien Lorber
+Bubba:
+  name: Bubba
   title: Docusaurus maintainer
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
