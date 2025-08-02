@@ -10,7 +10,7 @@
 
 .playerPopup {
   margin-top: 0.5rem;
-  background-color: var(--ifm-background-color);
+  background-color: var(--ifm-background-surface-color, white);
   color: var(--ifm-font-color-base);
   border: 1px solid var(--ifm-color-emphasis-200);
   border-radius: var(--ifm-global-radius);
@@ -19,6 +19,7 @@
   box-shadow: var(--ifm-global-shadow-lw);
   transition: opacity 0.2s ease, transform 0.2s ease;
 }
+
 
 .audioPlayer {
   width: 100%;
