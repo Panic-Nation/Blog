@@ -1,8 +1,11 @@
 {
-  // This file is not used in compilation. It is here just for a nice editor experience.
   "extends": "@docusaurus/tsconfig",
   "compilerOptions": {
-    "baseUrl": "."
+    "baseUrl": ".",
+    "jsx": "react-jsx",            // Enables JSX in .tsx files
+    "esModuleInterop": true,       // Allows default import of CommonJS modules like 'clsx'
+    "moduleResolution": "node",
+    "resolveJsonModule": true
   },
   "exclude": [".docusaurus", "build"]
 }
