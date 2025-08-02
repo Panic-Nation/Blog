@@ -1,0 +1,78 @@
+.playerContainer {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.playerPopup {
+  margin-top: 0.5rem;
+  background-color: var(--ifm-background-color);
+  color: var(--ifm-font-color-base);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: var(--ifm-global-radius);
+  padding: 1rem;
+  width: 280px;
+  box-shadow: var(--ifm-global-shadow-lw);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.audioPlayer {
+  width: 100%;
+  margin-top: 0.5rem;
+}
+
+.songTitle {
+  font-size: 0.95rem;
+  margin: 0.5rem 0;
+  color: var(--ifm-color-primary);
+  font-weight: 500;
+}
+
+
+.stationLabel {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  font-size: 0.85rem;
+  color: var(--ifm-font-color-base);
+}
+
+.stationSelect {
+  margin-top: 0.25rem;
+  padding: 0.4rem;
+  border-radius: var(--ifm-global-radius);
+  border: 1px solid var(--ifm-color-emphasis-300);
+  background-color: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base);
+  font-size: 0.9rem;
+}
+
+.expandToggle {
+  background-color: var(--ifm-color-primary);
+  color: white;
+  border: none;
+  border-radius: var(--ifm-global-radius);
+  padding: 0.3rem 0.6rem;
+  font-size: 1rem;
+  cursor: pointer;
+  box-shadow: var(--ifm-global-shadow-lw);
+  margin-bottom: 0.5rem;
+  transition: background-color 0.2s ease;
+  align-self: flex-end;
+}
+
+.expandToggle:hover {
+  background-color: var(--ifm-color-primary-dark);
+}
+
+.expanded {
+  display: block;
+}
+
+.collapsed {
+  display: none;
+}
