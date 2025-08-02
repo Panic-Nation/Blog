@@ -1,19 +1,45 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+Books & Comics:
+  label: Books & Comics
+  permalink: /books-comics
+  description: Books and comics posts 
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+Community News:
+  label: Community News
+  permalink: /community-news
+  description: Community News posts
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+Events:
+  label: Events
+  permalink: /events
+  description: Event posts
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+Games:
+  label: Games
+  permalink: /games
+  description: Game posts
+
+Guides:
+  label: Guides
+  permalink: /guides
+  description: Guide posts
+
+Movies & TV:
+  label: Movies & TV
+  permalink: /movies-tv
+  description: Movies & TV posts
+
+Music & Podcasts:
+  label: Music & Podcasts
+  permalink: /music-podcasts
+  description: Music and podcast posts
+
+Opinion:
+  label: Opinion
+  permalink: /opinion
+  description: Opinion posts
+
+Reviews:
+  label: Reviews
+  permalink: /reviews
+  description: Review posts
+  
