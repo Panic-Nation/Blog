@@ -50,6 +50,8 @@ const config: Config = {
         // },
         blog: {
           showReadingTime: true,
+          path: './blog',
+          
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
