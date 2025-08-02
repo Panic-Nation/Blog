@@ -26,7 +26,7 @@ const config: Config = {
   projectName: 'Blog', // Usually your repo name.
   trailingSlash: false,
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -50,6 +50,8 @@ const config: Config = {
         // },
         blog: {
           showReadingTime: true,
+          path: './blog',
+          
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
@@ -86,7 +88,7 @@ const config: Config = {
         //   position: 'left',
         //   label: 'Tutorial',
         // },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/Panic-Nation/Blog',
           label: 'GitHub',
