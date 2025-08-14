@@ -2,55 +2,45 @@ import type {ReactNode} from 'react';
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import { PenTool, Lock, Zap, FileCode2, Users, Archive, Hammer } from 'lucide-react';
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
   description: ReactNode;
+  icon: ReactNode;
 };
 
-const FeatureList: FeatureItem[] = [
-  {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+const features: FeatureItem[] = [
+    {
+    title: 'Community‑first',
+    icon: <Users className={styles.icon} />,
     description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
+      <>Built by and for Panic Nation members to preserve our history, celebrate creativity, and keep our little slice of the internet ours.</>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Member‑written Articles',
+    icon: <PenTool className={styles.icon} />,
     description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
+      <>Members can draft, review, and publish Panic Nation news, reviews, opinions, and highlights—free from outside noise.</>
     ),
   },
-  {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    {
+    title: 'Built by Members',
+    icon: <Hammer className={styles.icon} />,
     description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
+      <>Crafted by <strong>Bubbafett5611</strong> (developer) and <strong>CaptainSlayer</strong> (lead writer), with contributions from the whole crew.</>
     ),
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function FeatureCard({title, description, icon}: FeatureItem) {
   return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
+    <div className={clsx('col col--4', styles.col)}>
+      <div className={styles.card}>
+        <div className={styles.iconWrap}>{icon}</div>
+        <Heading as="h3" className={styles.cardTitle}>{title}</Heading>
+        <p className={styles.cardBody}>{description}</p>
       </div>
     </div>
   );
@@ -58,11 +48,24 @@ function Feature({title, Svg, description}: FeatureItem) {
 
 export default function HomepageFeatures(): ReactNode {
   return (
-    <section className={styles.features}>
+    <section className={styles.featuresSection}>
+      <div className={styles.heroBanner}>
+        <img src={require('@site/static/img/pn-10years-1.png').default} alt="Panic Nation 10 Year Anniversary" />
+      </div>
+      <div className={styles.sectionBg} aria-hidden="true" />
       <div className="container">
+        <div className={styles.headerRow}>
+          <Heading as="h2" className={styles.title}>Welcome to Panic Nation</Heading>
+          <p className={styles.subtitle}>
+            A passion project by <strong>Bubbafett5611</strong> (developer) and <strong>CaptainSlayer</strong> (lead writer), a home for our community to write, share, and archive what matters.
+          </p>
+          <div className={styles.ctaRow}>
+            <a className={styles.cta} href="/blog">Read the Latest Post!</a>
+          </div>
+        </div>
         <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
+          {features.map((item, i) => (
+            <FeatureCard key={i} {...item} />
           ))}
         </div>
       </div>
