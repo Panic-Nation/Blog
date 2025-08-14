@@ -6,7 +6,6 @@ export default function Layout(props) {
   return (
     <>
       <DefaultLayout {...props} />
-      <RadioPlayer />
     </>
   );
 }
