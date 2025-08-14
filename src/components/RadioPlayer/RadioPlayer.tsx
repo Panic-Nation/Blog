@@ -16,12 +16,11 @@ const stations = [
   { name: 'Fallout.FM #10', url: 'https://fallout.fm:8444/falloutfm10.ogg' },
 ];
 
-const RadioPlayer = () => {
+export default function RadioPage() {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const [selectedIndex, setSelectedIndex] = useState(2);
   const [streamUrl, setStreamUrl] = useState(stations[2].url);
   const [currentSong, setCurrentSong] = useState('Loading...');
-  const [isExpanded, setIsExpanded] = useState(true);
 
   useEffect(() => {
     const fetchMetadata = async () => {
@@ -31,7 +30,7 @@ const RadioPlayer = () => {
         const sources = Array.isArray(data.icestats.source)
           ? data.icestats.source
           : [data.icestats.source];
-        const matched = sources.find((s) => s.listenurl === streamUrl);
+        const matched = sources.find((s: any) => s.listenurl === streamUrl);
 
         if (matched?.metadata?.artist && matched?.metadata?.title) {
           setCurrentSong(`${matched.metadata.artist} – ${matched.metadata.title}`);
@@ -51,46 +50,35 @@ const RadioPlayer = () => {
   }, [streamUrl]);
 
   return (
-    <div className={styles.playerContainer}>
-      <button
-        className={styles.expandToggle}
-        onClick={() => setIsExpanded((prev) => !prev)}
-        aria-label="Toggle Radio Player"
-      >
-        {isExpanded ? '˅' : '˄'}
-      </button>
+    <main className={styles.fullPagePlayer}>
+      <p className={styles.track}>Now Playing: <span>{currentSong}</span></p>
 
-      <div className={styles.playerPopup}>
-        {isExpanded && (
-          <div className={styles.expanded}>
-            <strong>Now Playing</strong>
-            <p className={styles.songTitle}>{currentSong}</p>
+      <label className={styles.row}>
+        <span>Station</span>
+        <select
+          className={styles.select}
+          value={selectedIndex}
+          onChange={(e) => {
+            const index = parseInt(e.target.value, 10);
+            setSelectedIndex(index);
+            setStreamUrl(stations[index].url);
+          }}
+        >
+          {stations.map((station, i) => (
+            <option key={station.url} value={i}>
+              {station.name}
+            </option>
+          ))}
+        </select>
+      </label>
 
-            <label className={styles.stationLabel}>
-              <span>Station:</span>
-              <select
-                className={styles.stationSelect}
-                value={selectedIndex}
-                onChange={(e) => {
-                  const index = parseInt(e.target.value);
-                  setSelectedIndex(index);
-                  setStreamUrl(stations[index].url);
-                }}
-              >
-                {stations.map((station, i) => (
-                  <option key={station.url} value={i}>
-                    {station.name}
-                  </option>
-                ))}
-              </select>
-            </label>
-          </div>
-        )}
-
-        <audio ref={audioRef} src={streamUrl} controls className={styles.audioPlayer} />
-      </div>
-    </div>
+      <audio
+        ref={audioRef}
+        src={streamUrl}
+        className={styles.audio}
+        controls
+        preload="none"
+      />
+    </main>
   );
-};
-
-export default RadioPlayer;
+}
