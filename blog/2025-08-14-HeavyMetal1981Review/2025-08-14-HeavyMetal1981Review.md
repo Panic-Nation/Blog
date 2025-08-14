@@ -82,7 +82,6 @@ All of these stories play out with loads of violence, sex, and great music with 
 - Black Sabbath
 - Blue Öyster Cult
 - Cheap Trick
-- Cheap Trick
 - Devo
 - Don Felder
 - Donald Fagen
