@@ -1,5 +1,5 @@
 ---
-title: Digimon Story Cyber Sleuth Review
+title: Digimon Story Cyber Sleuth Review - An Investigation Into The Digital World of Roleplaying Games.
 description: A review of Digimon Story Cyber Sleuth on the Nintendo Switch 2.
 slug: digimon-story-cyber-sleuth-review
 authors: [CaptainSlayer]

@@ -1,5 +1,5 @@
 ---
-title: Heavy Metal (1981) Review
+title: Heavy Metal Review - Sex, Drugs, and Rock n' Roll.
 description: A review of the 1981 adult animated science fantasy anthology film, Heavy Metal.
 slug: heavy-metal-1981-review
 authors: [CaptainSlayer]

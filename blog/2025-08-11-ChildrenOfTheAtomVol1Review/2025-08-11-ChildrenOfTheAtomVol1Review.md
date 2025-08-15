@@ -1,5 +1,5 @@
 ---
-title: Children Of The Atom Vol. 1 Review
+title: Children Of The Atom Vol. 1 Review - The New Mutants?
 description: A review of Children of the Atom, Vol. 1.
 slug: children-of-the-atom-vol1-review
 authors: [CaptainSlayer]
