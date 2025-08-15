@@ -1,3 +1,8 @@
+Art:
+  label: Art
+  permalink: /art
+  description: Art posts
+
 Books & Comics:
   label: Books & Comics
   permalink: /books-comics
@@ -13,6 +18,11 @@ Events:
   permalink: /events
   description: Event posts
 
+Feature:
+  label: Feature
+  permalink: /feature
+  description: Feature posts 
+
 Games:
   label: Games
   permalink: /games
@@ -22,6 +32,11 @@ Guides:
   label: Guides
   permalink: /guides
   description: Guide posts
+
+Interview:
+  label: Interview
+  permalink: /interview
+  description: Interview posts
 
 Movies & TV:
   label: Movies & TV
@@ -33,6 +48,11 @@ Music & Podcasts:
   permalink: /music-podcasts
   description: Music and podcast posts
 
+News:
+  label: News
+  permalink: /news
+  description: News posts
+
 Opinion:
   label: Opinion
   permalink: /opinion
@@ -42,4 +62,8 @@ Reviews:
   label: Reviews
   permalink: /reviews
   description: Review posts
-  
+
+Tutorial:
+  label: Tutorial 
+  permalink: /tutorial
+  description: Tutorial posts
