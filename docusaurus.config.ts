@@ -57,45 +57,45 @@ const config: Config = {
       title: 'Panic Nation',
       logo: {
         alt: 'Panic Nation Logo',
-        src: 'img/logo.svg',
+        src: 'img/Emblem_200x200.png',
       },
       items: [
         {to: '/blog', label: 'Blog', position: 'left'},
         {to: '/radio', label: 'Radio', position: 'left'},
       ],
     },
-    footer: {
-      style: 'dark',
-      links: [
-        {
-          title: 'Community',
-          items: [
-            // {
-            //   label: 'Stack Overflow',
-            //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            // },
-            // {
-            //   label: 'Discord',
-            //   href: 'https://discordapp.com/invite/docusaurus',
-            // },
-            // {
-            //   label: 'X',
-            //   href: 'https://x.com/docusaurus',
-            // },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © Panic Nation ${new Date().getFullYear()}.`,
-    },
+    // footer: {
+    //   style: 'dark',
+    //   links: [
+    //     {
+    //       title: 'Community',
+    //       items: [
+    //         // {
+    //         //   label: 'Stack Overflow',
+    //         //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+    //         // },
+    //         // {
+    //         //   label: 'Discord',
+    //         //   href: 'https://discordapp.com/invite/docusaurus',
+    //         // },
+    //         // {
+    //         //   label: 'X',
+    //         //   href: 'https://x.com/docusaurus',
+    //         // },
+    //       ],
+    //     },
+    //     {
+    //       title: 'More',
+    //       items: [
+    //         {
+    //           label: 'Blog',
+    //           to: '/blog',
+    //         },
+    //       ],
+    //     },
+    //   ],
+    //   copyright: `Copyright © Panic Nation ${new Date().getFullYear()}.`,
+    // },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
