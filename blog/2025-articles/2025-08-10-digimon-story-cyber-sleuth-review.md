@@ -11,6 +11,7 @@ draft: false
 
 [![digimon-story-cyber-sleuth-button-edit-1641371673310.webp](https://i.postimg.cc/YSnjhphd/digimon-story-cyber-sleuth-button-edit-1641371673310.webp)](https://postimg.cc/LqPmWFkP)
 
+<!-- truncate -->
 
 ::::tip[Game Details]
 
@@ -21,8 +22,6 @@ draft: false
 **Developer**: Media.Vision  
 **Release**: March 12th, 2015  
 **Rating**: Teen  
-
-<!-- truncate -->
 
 :::note[Summary]
 
