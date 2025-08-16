@@ -1,3 +1,8 @@
+---
+title: Toxic.FM
+description: The official radio station for Panic Nation!
+---
+
 # Toxic.FM
 
 <iframe
