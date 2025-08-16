@@ -9,7 +9,7 @@ hide_table_of_contents: false
 draft: false
 ---
 
-![Keyart for Smite.](https://i.postimg.cc/nL61Yjwh/Smite.webp)(https://postimg.cc/QBJ5jt32)
+![Keyart for Smite.](https://i.postimg.cc/nL61Yjwh/Smite.webp)
 
 <!-- truncate -->
 

@@ -9,7 +9,7 @@ hide_table_of_contents: false
 draft: false
 ---
 
-[![The cover of Iceman Thawing Out.](https://i.postimg.cc/qvGRx9bh/Iceman.webp)
+![The cover of Iceman Thawing Out.](https://i.postimg.cc/qvGRx9bh/Iceman.webp)
 
 <!-- truncate -->
 

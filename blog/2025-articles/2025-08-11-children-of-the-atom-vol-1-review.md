@@ -4,7 +4,7 @@ description: A review of Children of the Atom, Vol. 1.
 slug: children-of-the-atom-vol1-review
 authors: [CaptainSlayer]
 tags: [Reviews, Books & Comics]
-image: https://postimg.cc/F1DbKfwD
+image: https://i.postimg.cc/zX1x0K7Z/IMG-20250811-193253.jpg
 hide_table_of_contents: false
 draft: false
 ---
