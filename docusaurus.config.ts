@@ -64,38 +64,6 @@ const config: Config = {
         {to: '/radio', label: 'Radio', position: 'left'},
       ],
     },
-    // footer: {
-    //   style: 'dark',
-    //   links: [
-    //     {
-    //       title: 'Community',
-    //       items: [
-    //         // {
-    //         //   label: 'Stack Overflow',
-    //         //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-    //         // },
-    //         // {
-    //         //   label: 'Discord',
-    //         //   href: 'https://discordapp.com/invite/docusaurus',
-    //         // },
-    //         // {
-    //         //   label: 'X',
-    //         //   href: 'https://x.com/docusaurus',
-    //         // },
-    //       ],
-    //     },
-    //     {
-    //       title: 'More',
-    //       items: [
-    //         {
-    //           label: 'Blog',
-    //           to: '/blog',
-    //         },
-    //       ],
-    //     },
-    //   ],
-    //   copyright: `Copyright © Panic Nation ${new Date().getFullYear()}.`,
-    // },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,

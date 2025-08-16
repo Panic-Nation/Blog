@@ -8,8 +8,7 @@ image: https://postimg.cc/LqPmWFkP
 hide_table_of_contents: false
 draft: false
 ---
-
-[![digimon-story-cyber-sleuth-button-edit-1641371673310.webp](https://i.postimg.cc/YSnjhphd/digimon-story-cyber-sleuth-button-edit-1641371673310.webp)](https://postimg.cc/LqPmWFkP)
+![digimon-story-cyber-sleuth-button-edit-1641371673310.webp](https://i.postimg.cc/YSnjhphd/digimon-story-cyber-sleuth-button-edit-1641371673310.webp)
 
 <!-- truncate -->
 

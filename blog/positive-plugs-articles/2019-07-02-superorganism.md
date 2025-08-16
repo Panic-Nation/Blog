@@ -8,7 +8,7 @@ image: https://i.postimg.cc/nLvwLDZ7/superorganism.webp
 hide_table_of_contents: false
 draft: false
 ---
-[![A stylish photo of the indie pop band, Superorganism.](https://i.postimg.cc/nLvwLDZ7/superorganism.webp)
+![A stylish photo of the indie pop band, Superorganism.](https://i.postimg.cc/nLvwLDZ7/superorganism.webp)
 
 <!-- truncate -->
 

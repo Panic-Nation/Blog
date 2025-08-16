@@ -4,7 +4,7 @@ description: A review of the 1981 adult animated science fantasy anthology film,
 slug: heavy-metal-1981-review
 authors: [CaptainSlayer]
 tags: [Reviews, Movies & TV]
-image: https://postimg.cc/R6SLr0Vh
+image: https://i.postimg.cc/0QmWw6TY/heavymetal.webp
 hide_table_of_contents: false
 draft: false
 ---
