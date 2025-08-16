@@ -179,11 +179,15 @@ Despite its flaws, I am glad that I finished the game, and I look forward to pla
 | Adult Themes | Very Bright and Loud Menus | 
 :::
 
-
-**Click the image below to watch the Digimon Story Time Stranger Release Date Trailer on YouTube!**
-
-[![Digimon Story Time Stranger Release Date Trailer](https://static.bandainamcoent.eu/high/digimon/digimon-story-time-stranger/01-news/DSTS_PreorderTrailer_Thumbnail.png)](https://youtu.be/HRkN-3QM9Gk?si=XR2lnCmePSP0UbgV)
-
+<iframe
+  width="100%"
+  height="315"
+  src="https://www.youtube.com/embed/HRkN-3QM9Gk"
+  title="YouTube video player"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowFullScreen
+/>
 
 
 
