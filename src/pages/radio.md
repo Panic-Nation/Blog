@@ -12,21 +12,21 @@ description: The official radio station for Panic Nation!
   allowTransparency
 />
 
-# REQUESTS
-<iframe
-  src="https://a12.asurahosting.com/public/panic_nation/embed-requests"
-  frameBorder="0"
-  style={{ width: '100%', minHeight: '300px', border: 0 }}
-  allowTransparency
-/>
+# TOXIC.FM CHAT
+<iframe src="/chat.html" width="100%" height="540" frameborder="0"></iframe>
 
-# HISTORY
+#### CHAT COMMANDS
+- `!connect` - Disconnects & reconnects to another chat.
+- `!online` - Shows a list of the current online users.
+- `!tutorial` - Runs the tutorial for whoever called the command.
+- `!help` - Runs the tutorial command.
+
+---
+
+# SONG HISTORY
 <iframe
   src="https://a12.asurahosting.com/public/panic_nation/history"
   frameBorder="0"
   style={{ width: '100%', minHeight: '300px', border: 0 }}
   allowTransparency
 />
-
-# Toxic.FM Chat
-<iframe src="/chat.html" width="100%" height="540" frameborder="0"></iframe>
