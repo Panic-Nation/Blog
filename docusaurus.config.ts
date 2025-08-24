@@ -44,6 +44,10 @@ const config: Config = {
           blogSidebarCount: `ALL`,//10,
           postsPerPage: 10,
         },
+        docs: {
+          sidebarPath: './sidebars.ts',
+          sidebarCollapsible: true,
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -62,6 +66,7 @@ const config: Config = {
       items: [
         {to: '/blog', label: 'Blog', position: 'left'},
         {to: '/radio', label: 'Radio', position: 'left'},
+        {to: '/docs/intro', label: 'Docs', position: 'right'},
       ],
     },
     prism: {

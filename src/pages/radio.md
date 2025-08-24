@@ -27,3 +27,6 @@ description: The official radio station for Panic Nation!
   style={{ width: '100%', minHeight: '300px', border: 0 }}
   allowTransparency
 />
+
+# Community Chat
+<iframe src="/chat.html" width="100%" height="540" frameborder="0"></iframe>
