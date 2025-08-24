@@ -28,5 +28,5 @@ description: The official radio station for Panic Nation!
   allowTransparency
 />
 
-# Community Chat
+# Toxic.FM Chat
 <iframe src="/chat.html" width="100%" height="540" frameborder="0"></iframe>
