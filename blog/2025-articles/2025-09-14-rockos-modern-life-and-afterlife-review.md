@@ -1,5 +1,5 @@
 ---
-title: Rocko's Modern Life... And Afterlife Review - 
+title: Rocko's Modern Life... And Afterlife Review - Modern Problems Require Modern Comics
 description: A review of the Rocko's Modern Life... and Afterlife graphic novel. 
 slug: rockos-modern-life-and-afterlife-review
 authors: [CaptainSlayer]
