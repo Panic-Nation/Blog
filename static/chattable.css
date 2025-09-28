@@ -4,7 +4,6 @@ body {
 .allMessages {
  border-radius: 10px;
  font-family: Tahoma, Arial, sans-serif;
- font-size: 10pt;
  width: calc(95% - 20px);
  padding: 10px;
  margin: auto;
@@ -112,6 +111,19 @@ blockquote {
 .senderInfo {
  font-style: italic;
 }
+
+.highlight {
+ background-color: #1e88e5;
+ color: #FFF;
+}
+
+.owner{
+  color: #1e88e5;
+  font-weight: bold;
+  text-decoration: underline;
+  background-color: rgba(30, 136, 229, 0.2);
+}
+
 #timestamp {
  margin: 0;
  color: #555;
@@ -159,6 +171,15 @@ blockquote {
   color: #AAA;
   border-color: #1e88e5;
 }
+.emoji {
+  height: 48px;
+  width: 48px;
+}
+.emojiInGrid {
+  height: 48px;
+  width: 48px;
+}
+
 #settings {
   background-color: #1e88e5;
   background-position: center;
