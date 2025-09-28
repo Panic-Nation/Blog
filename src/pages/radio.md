@@ -21,6 +21,12 @@ description: The official radio station for Panic Nation!
 - `!tutorial` - Runs the tutorial for whoever called the command.
 - `!help` - Runs the tutorial command.
 
+:::tip
+
+You can change your chat Username and control notification sounds by clicking the gear icon in the top right of the chat window close to the scroll bar.
+
+:::
+
 ---
 
 # SONG HISTORY
