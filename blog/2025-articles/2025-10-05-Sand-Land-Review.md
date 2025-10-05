@@ -1,10 +1,10 @@
 ---
 title: Sand Land Review - A Desolate and Bland Open World Saved by Excellent Characters
 description: A review of the 2024 video game Sand Land. Reviewed on an Xbox Series X.
-slug: Sand-Land-Review
+slug: sand-land-review
 authors: [CaptainSlayer]
 tags: [Reviews, Games]
-image: https://postimg.cc/LqPmWFkP
+image: https://i.postimg.cc/RFntrKXj/42f725f8-dc4e-46bd-8406-d5c8990358fd.png
 hide_table_of_contents: false
 draft: false
 ---
