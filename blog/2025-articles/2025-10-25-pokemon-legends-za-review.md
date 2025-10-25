@@ -4,7 +4,7 @@ description: A review of the 2025 action role-playing game Pokémon Legends Z-A 
 slug: pokemon-legends-za-review
 authors: [CaptainSlayer]
 tags: [Reviews, Games]
-image: https://i.postimg.cc/j2fNQm6G/20251025101042-01K8DTZSTRERXQ83V45HH0FXBQ.jpg
+image: https://i.postimg.cc/QNKp3KLt/20251025101034-01K8DV2K33YNSR1TH2XBCPR44P.jpg
 hide_table_of_contents: false
 draft: false
 ---
