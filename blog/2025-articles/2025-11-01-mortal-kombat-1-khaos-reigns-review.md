@@ -1,6 +1,6 @@
 ---
 title: Mortal Kombat 1 Khaos Reigns Story Review - A Komplete Waste Of Time
-description: A review of the 2024 video game Sand Land. Reviewed on an Xbox Series X.
+description: A review of the 2024 Mortal Kombat 1 Khaos Reigns story expansion. Reviewed on an Xbox Series X.
 slug: mortal-kombat-1-khaos-reigns-review
 authors: [CaptainSlayer]
 tags: [Reviews, Games]
