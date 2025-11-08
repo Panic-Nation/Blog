@@ -50,7 +50,7 @@ Watching the mystery of Maybrook unfold never felt like a chore and I found myse
 
 An interesting plot, wicked visuals, intriguing mystery, a focus on suspense over relying simply on jumpscares, and a very satisfying amount of comic relief to ease the tension when it's needed most make **Weapons** and easy recommendation for anyone looking for a new horror film to entertain this spooky season. 
 
-:::info[**Score:** ⭐⭐⭐⭐⭐ (5/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐⭐ (5/5)]
 
 **Weapons** is an excellent new addition to the horror genre.
 

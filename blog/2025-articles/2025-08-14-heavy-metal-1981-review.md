@@ -100,7 +100,7 @@ Combine this with the very dated dialogue and voice acting, where it's clear the
 ![taarna-heavy-metal.png](https://i.postimg.cc/rsNffBFz/taarna-heavy-metal.png)
 
 
-:::info[**Score:** ⭐⭐⭐☆ ☆ (3/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐☆ ☆ (3/5)]
 **Heavy Metal** is one of those movies that isn't good, yet it's great at the same time. 
 
 It's definitely my style of movie. I love anthologies, metal, sci-fi, fantasy, sex, violence, and horror. 

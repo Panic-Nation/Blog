@@ -55,7 +55,7 @@ Without spoiling anything, I can safely say that I simultaneously love and hate 
 
 As I watched the credits roll and reflected on the emotions I was feeling, I knew that this was a one-of-a-kind experience that I had been given and I became thankful for it regardless of how upset it left me.
 
-:::info[**Score:** ⭐⭐⭐⭐☆ (4/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐☆ (4/5)]
 
 The Last of Us Part II hasn’t left my mind in the week that’s passed since I’ve beaten it and it’s been a lot of fun talking to my friends about it as they continue their way through the journey.
 

@@ -69,7 +69,7 @@ This is why I love the X-Men. Their stories are often about diversity, acceptanc
 
 I highly recommend this book.
 
-:::info[**Score:** ⭐⭐⭐⭐⭐ (5/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐⭐ (5/5)]
 
 
 :::

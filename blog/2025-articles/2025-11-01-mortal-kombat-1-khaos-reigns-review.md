@@ -71,7 +71,7 @@ To be completely transparent, this review only focuses on the story mode content
 **Khaos Reigns** helped ensure things stay this way by leading me to uninstall the entire game after the credits rolled.
 
 
-:::info[**Score:** ⭐☆☆☆☆ (1/5)]  
+:::info[Summary | **Rating:** ⭐☆☆☆☆ (1/5)]  
 **Khaos Reigns** is an overpriced and soulless story expansion that offers little to no value to fans of the franchise.  
 
 Terrible writing manages to make an interesting plot concept worse than bad by also making it boring and relying on cheap design tactics to pad the playtime.

@@ -75,7 +75,7 @@ I was initially disappointed that I'd bought the book and somehow managed to for
 
 The next time I feel like gritting my teeth over something small I'll try to imagine blowing it up to cartoonish proportions and picture how Rocko would deal with it, just long enough to smile and remember things are going to be just fine. 
 
-:::info[**Score:** ⭐⭐⭐⭐⭐ (5/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐⭐ (5/5)]
 **Rocko's Modern Life... and Afterlife** is a budget-friendly book that provides a great value by combining two complete series and several short stories into one. 
 
 There's even some behind the scenes bits at the very end showing the process of creating the comic through original design documents. 

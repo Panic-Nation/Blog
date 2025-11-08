@@ -93,6 +93,6 @@ While I’m sure the game won’t be for everyone, I must implore any Gears fan,
 
 Lastly, if you need some friends to play Horde with, feel free to grab a space in the “Panic Nation” or “Spawn Point” Crews while slots are still open!
 
-:::info[**Score:** ⭐⭐⭐⭐☆ (4/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐☆ (4/5)]
 
 :::

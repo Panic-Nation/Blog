@@ -110,7 +110,7 @@ I believe the studio could've created a much better game by dropping the open-wo
 
 ![Beelzebub looks out onto the legendary spring.](https://i.postimg.cc/hjw0TK3k/5d7e9d5b-8aca-4458-beb0-ef63f0a88e7c.png)
 
-:::info[**Score:** ⭐⭐⭐☆☆ (3/5)]  
+:::info[Summary | **Rating:** ⭐⭐⭐☆☆ (3/5)]  
 **Sand Land** is a very beautiful game. The art of Akira Toriyama translates to fully realized 3D environments very well.  
 
 Unfortunately, the repetitive and stale nature of the open world leaves a lot to be desired as you try to force yourself to stay engaged long enough to hit the next story beat—which is often satisfying enough to make you want just a bit more.  

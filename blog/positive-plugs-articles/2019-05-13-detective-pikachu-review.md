@@ -88,7 +88,7 @@ For the older fans, bring your friends and allow yourself the pleasure of going 
 
 And as for the younger fans and their parents, don’t miss your opportunity to see this in theaters. Who knows if you’ll have to wait another 23 years for the next one!
 
-:::info[**Score:** ⭐⭐⭐⭐ ☆ (4/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐ ☆ (4/5)]
 Detective Pikachu is visually gorgeous, the plot is enough to get by on and the actors, particularly Ryan Reynolds, do a phenomenal job of selling the world as a believably real place.
 :::
 

@@ -65,7 +65,7 @@ The mature theme, breathtaking art and gruesome story should be enough to keep y
 
 Reading this story on a digital device such as a tablet or PC seems to offer the best experience as the backlight really helps the art pop and the guided view prevents you from glancing down and spoiling anything.
 
-:::info[**Score:** ⭐⭐⭐⭐⭐ (5/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐⭐ (5/5)]
 
 Wolverine has always been one of my all-time favorite superheroes. So I’m willing to admit that when it comes to his stories, I’ll be a bit biased. But in this case, I am absolutely convinced that this book goes above and beyond what you would expect from any comic story and is a must-read for any Marvel fan.
 

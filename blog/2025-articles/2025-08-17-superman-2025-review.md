@@ -432,7 +432,7 @@ This was more than just a movie to me, it was an experience, and a lesson, a les
 
 ... and I am going to treasure it forever. 
 
-:::info[**Score:** ⭐⭐⭐⭐⭐ (5/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐⭐ (5/5)]
 
 Superman serves as my perfect entry into the DC universe and proves to be an unforgettable experience.
 

@@ -98,7 +98,7 @@ If you’re new to the series and want to learn more, I recommend the kommunity 
 
 Mortal Kombat 11 is a highlight of what modern gaming can be and I couldn’t be happier to be a part of it.
 
-:::info[**Score:** ⭐⭐⭐⭐ ☆ (4/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐ ☆ (4/5)]
 
 Mortal Kombat 11 is a well-polished paradise for fighting game fans. The speed of the game has been slowed down slightly from Mortal Kombat X and introduces all new mechanics, such as a defense meter, to encourage new strategies and play styles to mix things up.
 

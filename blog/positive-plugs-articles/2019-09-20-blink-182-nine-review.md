@@ -77,7 +77,7 @@ At the end of the day, you’ll enjoy it or you won’t and both options are com
 So, here’s to the future for the old and new alike.
 
 
-:::info[**Score:** ⭐⭐⭐⭐☆  (4/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐☆  (4/5)]
 
 NINE is a damn good album. All fifteen tracks are the boys putting their footprint in the sand of 2019’s pop-punk and showing the world that they aren’t going anywhere anytime soon. While some of the songs don’t hit me, several do and they really shine.
 
