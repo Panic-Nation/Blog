@@ -60,7 +60,7 @@ That’s not to say the action wasn’t enjoyable. The battles detailed in Ascen
 
 
 
-:::info[**Score:** ⭐⭐⭐⭐⭐ (5/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐⭐ (5/5)]
 
 Ultimately, Gears of War: Ascendance is optional reading that likely only dedicated fans will go out of their way to enjoy, and that’s OK. But discovering all these small details such as why Jinn uses a Deebee to move on the field, or what Baird is working on in secret, how and why Deebees are receiving significant program upgrades or what happened with that mystery character between 4 and 5 is very satisfying to digest.
 

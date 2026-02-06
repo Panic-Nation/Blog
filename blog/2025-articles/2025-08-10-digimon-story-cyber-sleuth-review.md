@@ -162,7 +162,7 @@ A new game in the franchise, **Digimon Story: Time Stranger**, is set to release
 
 ![Agumon & Gabumon say goodbye!](https://i.postimg.cc/7ZN5r1D8/20250707202129-01-JZKPGDZGC6-JRN0-Y1-N0-RRTC3-H.jpg)
 
-:::info[**Score:** ⭐⭐⭐☆ ☆ (3/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐☆ ☆ (3/5)]
 **Digimon Story Cyber Sleuth** is a fun but flawed adventure with an excellent story and wonderful cast of characters that is brought down by its generic systems and world design. 
 
 Despite its flaws, I am glad that I finished the game, and I look forward to playing the sequels in the future.

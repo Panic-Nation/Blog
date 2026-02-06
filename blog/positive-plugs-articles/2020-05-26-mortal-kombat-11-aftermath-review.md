@@ -69,7 +69,7 @@ My only complaint about my time with Aftermath is the lack of new achievements, 
 
 I’ve had a blast with this expansion and getting a story-based add-on for a fighting game is something I’ve wanted for a very long time, particularly for Mortal Kombat, and I’m quite happy to say, Aftermath delivers!
 
-:::info[**Score:** ⭐⭐⭐⭐☆ (4/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐☆ (4/5)]
 
 
 

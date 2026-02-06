@@ -200,8 +200,7 @@ All of this culminates in what is, as of the time of this writing, my personal g
 
 ---
 
-:::info
-### **Score:** ⭐⭐⭐⭐⭐ (5/5)
+:::info[Summary | **Rating:**⭐⭐⭐⭐⭐ (5/5)]
 
 **Pokémon Legends: Z-A** continues the trend of innovating the almost 30-year-old franchise.  
 

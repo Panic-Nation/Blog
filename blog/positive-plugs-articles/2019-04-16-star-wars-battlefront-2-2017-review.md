@@ -85,7 +85,7 @@ It’s okay to like the game, and it’s okay to dislike it. But if there’s on
 
 Thanks for reading.
 
-:::info[**Score:** ⭐⭐⭐⭐⭐ (5/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐⭐ (5/5)]
 
 Star Wars Battlefront II is a labor of love, and even during the worst times, DICE has continued to push through and provide good, quality content for their player base.
 

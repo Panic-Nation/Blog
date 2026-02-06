@@ -50,7 +50,7 @@ This well-animated piece is brought to life with gorgeous pastel colors and spot
 
 Do yourself a favor: see it.
 
-:::info[**Score:** ⭐⭐⭐⭐⭐ (5/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐⭐ (5/5)]
 
 :::
 

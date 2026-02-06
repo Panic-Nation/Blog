@@ -83,7 +83,7 @@ So do yourself a favor and give this season a watch. Bobby and friends are waiti
 
 
 
-:::info[**Score:** ⭐⭐⭐⭐⭐ (5/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐⭐ (5/5)]
 
 **King of the Hill Season 14** is a masterpiece. 
 

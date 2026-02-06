@@ -136,7 +136,7 @@ If getting several new battlefields for free at the expense of not owning every 
 
 
 
-:::info[**Score:** ⭐⭐⭐⭐⭐ (5/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐⭐ (5/5)]
 
 Gears 5 is a huge bundle of content for its $60 price. Most players, myself included, get to access that content for even less by subscribing to Game Pass or Game Pass Ultimate. The quality and polish of the title gives me renewed hope in the future of Xbox Game Studios as a whole and I’m excited to see what comes next.
 

@@ -63,7 +63,7 @@ In summary, Overlord isn’t great because it gives us a gorefest as everyone ex
 This isn’t just a zombie apocalypse movie. In fact, it’s nothing like one. Instead, it’s a war film that focuses on the horrors and monstrosity of man just as much as it does the undead.
 
 
-:::info[**Score:** ⭐⭐⭐⭐ ☆ (4/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐ ☆ (4/5)]
 Overlord is a wonderful movie that is a great way to spend an hour and forty-eight minutes of your time. If you can, check it out in 4K UHD as some scenes really stand out including an explosive ending sequence. My only regret is not seeing it in theaters.
 :::
 

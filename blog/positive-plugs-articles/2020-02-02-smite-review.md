@@ -76,7 +76,7 @@ With Season 7 having just started this week, it’s the perfect time to join!
 After all, the game is completely free to play – so what do you have to lose?
 
 
-:::info[**Score:** ⭐⭐⭐⭐⭐ (5/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐⭐ (5/5)]
 
 
 

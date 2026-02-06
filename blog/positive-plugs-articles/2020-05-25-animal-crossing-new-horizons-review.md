@@ -56,7 +56,7 @@ So yes, Animal Crossing: New Horizons came at the best (and worst) possible time
 
 It’s an absolute joy that I can’t recommend enough to anyone and everyone.
 
-:::info[**Score:** ⭐⭐⭐⭐⭐ (5/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐⭐ (5/5)]
 
 
 

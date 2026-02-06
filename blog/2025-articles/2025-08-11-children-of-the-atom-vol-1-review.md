@@ -70,7 +70,7 @@ In fact, the only things I really didn't like about this book were the pacing ne
 
 Fingers crossed that gets fixed someday!
 
-:::info[**Score:** ⭐⭐⭐⭐ ☆ (4/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐ ☆ (4/5)]
 **Children of the Atom** is a fresh and interesting story with a brand new perspective on the X-verse.
 
 The book is easily read in a day and I highly recommend it to anyone who is remotely interested in X-Men or comics in general!

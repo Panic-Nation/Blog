@@ -78,7 +78,7 @@ We’ve already got two new Disney+ originals set in the Toy Story universe to l
 
 Whatever the future may hold, it’s comforting to know that Toy Story 4 is an amazing movie. If you ever have the chance to see it, don’t miss it.
 
-:::info[**Score:** ⭐⭐⭐⭐⭐ (5/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐⭐ (5/5)]
 
 Toy Story 4 impresses on all fronts. Some folks will prefer Toy Story 3 as the conclusive end while others will find more closure with Toy Story 4. While both films can serve as a definitive end to the universe we’ve grown to love over the past 25 years, we still can’t be sure this is the absolute end. Producer Mark Nielsen was quoted as saying he was unsure of another sequel and that “that’s tomorrow’s problem” – an answer that I really like. 
 

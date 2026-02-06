@@ -75,7 +75,7 @@ My other, more genuine complaint is the bugs. I haven’t played a ton of the ga
 
 Another bug involved bosses getting stuck in their death animations, which left us stranded at the victory screen while random players were able to join and leave. Admittedly, this one was beneficial for a few folks unlocking the achievement for beating the last boss without being hit.
 
-:::info[**Score:** ⭐⭐⭐⭐⭐ (5/5)]
+:::info[Summary | **Rating:** ⭐⭐⭐⭐⭐ (5/5)]
 
 Teenage Mutant Ninja Turtles: Shredder’s Revenge is a fun game. It’s easy to pick up, and you’re not required to stick around for an entire run if you have limited time. The variety of playable characters and enemies, along with the short length, give it much more replay value than most titles for me. After multiple clears across both modes, I’m still finding myself eager to jump back in and slap up some bad guys—even right now as I’m writing this!
 
