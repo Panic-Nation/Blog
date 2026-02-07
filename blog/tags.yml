@@ -67,3 +67,18 @@ Tutorial:
   label: Tutorial 
   permalink: /tutorial
   description: Tutorial posts
+
+Songwriting:
+  label: Songwriting 
+  permalink: /songwriting
+  description: Songwriting posts
+
+AI Art:
+  label: AI Art
+  permalink: /ai-art
+  description: AI Art posts
+
+AI Music:
+  label: AI Music
+  permalink: /ai-music
+  description: AI Music posts
