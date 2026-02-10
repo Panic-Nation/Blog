@@ -126,14 +126,12 @@ The progress has been slow, and it has not been linear. There are days where I f
 
 ## Closing Thoughts
 
-This song absolutely still feels accurate to where I am right now.
+This song still feels accurate to where I am right now.
 
-There are days where I catch these patterns early and days where I do not notice them until I am already deep in them. Both happen, and neither means I am failing. Writing and listening to *Wide Awake* has not solved anything outright, but it has given me a way to slow down, notice what is happening, and respond with a little more honesty.
+Some days I catch these patterns early. Other days I don't notice what is happening until I am already deep in it. Both happen, and neither feels surprising anymore. Writing and listening to *Wide Awake* hasn't fixed that, but it has helped me slow down, notice what's happening, and be a little more honest with myself when it does.
 
-Through all of this, Panic Nation has given me a place to slow down, say the impulsive thing, and just be me without fear of being judged. That sense of safety has carried me through more dark patches than I can count.
+Panic Nation has also played a big part in that. Having a place where I can say the impulsive thing, talk things out, or just exist without constantly watching myself helps me let off some pressure without it being a volatile reaction.
 
-If you listened to this song and it hit close to home, you are not alone in that.
-
-Thanks for reading,  
+Anyway, thanks for getting this far.
 💚 *Bubba*
 
