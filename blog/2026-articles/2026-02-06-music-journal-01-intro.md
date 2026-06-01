@@ -6,7 +6,8 @@ authors: [Bubba]
 tags: [Music & Podcasts, Songwriting, AI Music]
 image: https://i.postimg.cc/TYWXxvVJ/PanicNationEarthLogo_zps3ad10497.png
 hide_table_of_contents: false
-draft: false
+draft: true
+hidden: true
 ---
 
 This post marks the beginning of an ongoing **Music Journal** series I’ll be doing.
